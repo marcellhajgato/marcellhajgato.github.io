@@ -1,0 +1,50 @@
+body {
+background-color: #3d5c5c;
+}
+
+h1 {
+color: yellow;
+font-family:New Times Roman;
+font-size:425%;
+text-align:center;
+}
+
+h3 {
+color: yellow;
+font-family:New Times Roman;
+font-size:145%;
+text-align:center;
+}
+
+p {
+color: yellow;
+font-size:125%;
+font-family:New Times Roman;
+text-align:center;
+}
+
+img {
+float:right;
+float:top;
+border: 2px solid yellow;
+width:400px;
+height:600px;
+}
+
+a:link {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+  font-size:160%;
+}
+a:visited {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange;
+  background-color: transparent;
+  text-decoration: underline;
+}

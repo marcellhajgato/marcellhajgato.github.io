@@ -1,0 +1,51 @@
+body {
+background-color: #660000;
+}
+
+h2 {
+color: #ff6666;
+font-family:New Times Roman;
+font-size:425%;
+text-align:center;
+}
+
+h3 {
+color: #ff6666;
+font-size:150%;
+font-family:New Times Roman;
+text-align:left;
+}
+
+div {
+background-color:black;
+padding:20px;
+}
+
+p {
+color: #ff6666;
+font-size:125%;
+font-family:New Times Roman;
+text-align:left;
+}
+
+img {
+border: 2px solid #ff6666;
+}
+
+a:link {
+  color: #ff6666;
+  background-color: transparent;
+  text-decoration: none;
+  font-size:160%;
+}
+a:visited {
+  color: #ff6666;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff00ff;
+  background-color: transparent;
+  text-decoration: underline;
+}
